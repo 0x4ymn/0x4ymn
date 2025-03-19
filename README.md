@@ -1,7 +1,7 @@
 ## **Who Am I?**
 
 ```cpp
-class SBE3 {
+class 4YMN {
 	private :
 		std::string	Name = "NASSIH Aymane";
 		std::string	SU = "4YMN";
