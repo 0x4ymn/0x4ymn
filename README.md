@@ -16,7 +16,7 @@ class 4YMN {
 ```
 | My 42 Stats | 💫 About Me: | 
 | --- | --- |
-| [![shrimech's 42 stats](https://badge.mediaplus.ma/binary/anassih)](https://profile.intra.42.fr/users/anassih) | 👨‍💻 Hi! I’m AYMANE <br> 🎂 Age: 28 | 💻 Software Engineer <br> 🔭 I’m currently working on: Building Aerospace tech solutions and improving my skills in software architecture @ 1337 Coding school - UM6P. <br> 🌱  
+| [![anassih's 42 stats](https://badge.mediaplus.ma/binary/anassih)](https://profile.intra.42.fr/users/anassih) | 👨‍💻 Hi! I’m AYMANE <br> 🎂 Age: 28 | 💻 Software Engineer <br> 🔭 I’m currently working on: Building Aerospace tech solutions and improving my skills in software architecture @ 1337 Coding school - UM6P. <br> 🌱  
 
 
 
