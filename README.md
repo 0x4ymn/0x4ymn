@@ -6,6 +6,7 @@
 	<img alt="Last commit" src="https://img.shields.io/github/last-commit/0x4ymn/keynox?style=flat-square" />
 	<br><br>
 </div>
+
 ```cpp
 class 4YMN {
 	private :
@@ -20,6 +21,11 @@ class 4YMN {
 		int	    	getAge();
 }
 ```
+
+| My 42 Stats | 💫 About Me: | 
+| --- | --- |
+|| 👨‍💻 Hi! I’m AYMANE <br> 💻 Software Engineer <br> 🔭 I’m currently working on: Building Aerospace tech solutions and improving my skills in software architecture @ 1337 Coding school - UM6P. <br> 🌱  
+
 <!-- Profile Summary -->
 <div align="center">
 	<picture align="left">
@@ -33,10 +39,6 @@ class 4YMN {
 	    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0x4ymn&show_icons=true&rank_icon=github&custom_title=0x4ymn's+Github+Stats&hide_border=true" />
 	</picture>
 </div>
-
-| My 42 Stats | 💫 About Me: | 
-| --- | --- |
-|| 👨‍💻 Hi! I’m AYMANE <br> 💻 Software Engineer <br> 🔭 I’m currently working on: Building Aerospace tech solutions and improving my skills in software architecture @ 1337 Coding school - UM6P. <br> 🌱  
 
 
 ## 🌐 Socials:
