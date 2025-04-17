@@ -1,19 +1,11 @@
 ## **Who Am I?**
-
-<!-- Profile Summary -->
+<!-- Badges -->
 <div align="center">
-	<picture align="left">
-		<source width="47%" srcset="https://streak-stats.demolab.com?user=0x4ymn&theme=react&hide_border=true&background=0D1117&fire=EB0000&ring=EB0000" media="(prefers-color-scheme: dark)" />
-		<source width="47%" srcset="https://streak-stats.demolab.com?user=0x4ymn&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-		<img width="47%" src="https://streak-stats.demolab.com?user=0x4ymn&hide_border=true" />
-	</picture>
-	<picture align="left">
-		<source width="49%" srcset="https://github-readme-stats.vercel.app/api?username=0x4ymn&show_icons=true&theme=react&bg_color=0d1117&rank_icon=github&custom_title=0x4ymn's+Github+Stats&hide_border=true" media="(prefers-color-scheme: dark)" />
-	    <source width="49%" srcset="https://github-readme-stats.vercel.app/api?username=0x4ymn&show_icons=true&rank_icon=github&custom_title=0x4ymn's+Github+Stats&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-	    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0x4ymn&show_icons=true&rank_icon=github&custom_title=0x4ymn's+Github+Stats&hide_border=true" />
-	</picture>
+	<img alt="#StandWithPalestine" src="/images/stand-with-palestine.svg">
+	<img alt="Visitors: +1" src="https://komarev.com/ghpvc/?username=0x4ymn&style=flat-square&label=Visitors&base=0" />
+	<img alt="Last commit" src="https://img.shields.io/github/last-commit/0x4ymn/keynox?style=flat-square" />
+	<br><br>
 </div>
-
 ```cpp
 class 4YMN {
 	private :
@@ -28,11 +20,23 @@ class 4YMN {
 		int	    	getAge();
 }
 ```
+<!-- Profile Summary -->
+<div align="center">
+	<picture align="left">
+		<source width="47%" srcset="https://streak-stats.demolab.com?user=0x4ymn&theme=react&hide_border=true&background=0D1117&fire=EB0000&ring=EB0000" media="(prefers-color-scheme: dark)" />
+		<source width="47%" srcset="https://streak-stats.demolab.com?user=0x4ymn&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+		<img width="47%" src="https://streak-stats.demolab.com?user=0x4ymn&hide_border=true" />
+	</picture>
+	<picture align="left">
+		<source width="49%" srcset="https://github-readme-stats.vercel.app/api?username=0x4ymn&show_icons=true&theme=react&bg_color=0d1117&rank_icon=github&custom_title=0x4ymn's+Github+Stats&hide_border=true" media="(prefers-color-scheme: dark)" />
+	    <source width="49%" srcset="https://github-readme-stats.vercel.app/api?username=0x4ymn&show_icons=true&rank_icon=github&custom_title=0x4ymn's+Github+Stats&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+	    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0x4ymn&show_icons=true&rank_icon=github&custom_title=0x4ymn's+Github+Stats&hide_border=true" />
+	</picture>
+</div>
+
 | My 42 Stats | 💫 About Me: | 
 | --- | --- |
 || 👨‍💻 Hi! I’m AYMANE <br> 💻 Software Engineer <br> 🔭 I’m currently working on: Building Aerospace tech solutions and improving my skills in software architecture @ 1337 Coding school - UM6P. <br> 🌱  
-
-
 
 
 ## 🌐 Socials:
@@ -40,14 +44,6 @@ class 4YMN {
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white) ![BASH](https://img.shields.io/badge/BASH-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white) ![OSINT](https://img.shields.io/badge/OSINT-%2300C9FF.svg?style=for-the-badge&logo=internet-explorer&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<!-- Badges -->
-<div align="center">
-	<img alt="#StandWithPalestine" src="/images/stand-with-palestine.svg">
-	<img alt="Visitors: +1" src="https://komarev.com/ghpvc/?username=0x4ymn&style=flat-square&label=Visitors&base=0" />
-	<img alt="Last commit" src="https://img.shields.io/github/last-commit/0x4ymn/keynox?style=flat-square" />
-	<br><br>
-</div>
 
 # 📊 GitHub Stats:
 
