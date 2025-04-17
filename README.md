@@ -22,8 +22,8 @@ class 4YMN {
 }
 ```
 
-| My 42 Stats | 💫 About Me: | 
-| --- | --- |
+| 💫 About Me: |
+| --- |
 || 👨‍💻 Hi! I’m AYMANE <br> 💻 Software Engineer <br> 🔭 I’m currently working on: Building Aerospace tech solutions and improving my skills in software architecture @ 1337 Coding school - UM6P. <br> 🌱  
 
 <!-- Profile Summary -->
