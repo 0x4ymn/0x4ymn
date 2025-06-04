@@ -10,7 +10,6 @@
 ```cpp
 class 4YMN {
 	private :
-		std::string	Name = "NASSIH Aymane";
 		std::string	SU = "4YMN";
 		std::string	Quote = "Aut inveniam viam aut faciam";
 		int		Age = 28;
