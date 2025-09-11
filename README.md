@@ -12,18 +12,16 @@ class 4YMN {
 	private :
 		std::string	SU = "4YMN";
 		std::string	Quote = "Aut inveniam viam aut faciam";
-		int		Age = 28;
 	public :
 		4YMN();
 		~4YMN();
 		std::string 	getStringCredentials();
-		int	    	getAge();
 }
 ```
 
 | 💫 About Me: |
 | --- | --- |
-|| 👨‍💻 Hi! I’m AYMANE <br> 💻 Digital Technologies Architect <br> 🔭 A Student in Digital Technologies Architecure, OffSec enthusiast @ 1337 Coding school - UM6P Rabat. <br> 🌱  
+|| 👨‍💻 Hi! I’m AYMANE <br> 💻 Digital Technologies Architect <br> 🔭 A Student in Digital Technologies Architecure, OffSec enthusiast @ M4SEC - 1337 Coding school - UM6P Rabat. <br> 🌱  
 
 <!-- Profile Summary -->
 <div align="center">
