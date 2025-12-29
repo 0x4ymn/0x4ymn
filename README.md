@@ -23,23 +23,6 @@ class 4YMN {
 | --- | --- |
 || 👨‍💻 Hi! I’m AYMANE <br> 💻 Digital Technologies Architect <br> 🔭 A Student in Digital Technologies Architecure, OffSec enthusiast @ M4SEC - 1337 Coding school - UM6P Rabat. <br> 🌱  
 
-<!-- Profile Summary -->
-<div align="center">
-	<picture align="left">
-		<source width="47%" srcset="https://streak-stats.demolab.com?user=0x4ymn&theme=react&hide_border=true&background=0D1117&fire=EB0000&ring=EB0000" media="(prefers-color-scheme: dark)" />
-		<source width="47%" srcset="https://streak-stats.demolab.com?user=0x4ymn&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-		<img width="47%" src="https://streak-stats.demolab.com?user=0x4ymn&hide_border=true" />
-	</picture>
-	<picture align="left">
-		<source width="49%" srcset="https://github-readme-stats.vercel.app/api?username=0x4ymn&show_icons=true&theme=react&bg_color=0d1117&rank_icon=github&custom_title=0x4ymn's+Github+Stats&hide_border=true" media="(prefers-color-scheme: dark)" />
-	    <source width="49%" srcset="https://github-readme-stats.vercel.app/api?username=0x4ymn&show_icons=true&rank_icon=github&custom_title=0x4ymn's+Github+Stats&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-	    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0x4ymn&show_icons=true&rank_icon=github&custom_title=0x4ymn's+Github+Stats&hide_border=true" />
-	</picture>
-</div>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xaymn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-nassih/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/n7wimok/) [![X](https://img.shields.io/badge/x-%23000000.svg?logo=x&logoColor=white)](https://x.com/0xAYMANE)  
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white) ![BASH](https://img.shields.io/badge/BASH-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white) ![OSINT](https://img.shields.io/badge/OSINT-%2300C9FF.svg?style=for-the-badge&logo=internet-explorer&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
