@@ -21,7 +21,7 @@ class 4YMN {
 
 | 💫 About Me: |
 | --- | --- |
-|| 👨‍💻 Hi! I’m AYMANE <br> 💻 Digital Technologies Architect <br> 🔭 A Student in Digital Technologies Architecure, OffSec enthusiast @ M4SEC - 1337 Coding school - UM6P Rabat. <br> 🌱  
+|| 👨‍💻 <br> 💻 Digital Technologies Architect & NextGen Business enthusiast <br> 🔭 A Fintech entrepreneur and former Digital Technologies Architecure student, OffSec open research - UM6P Rabat. <br> 🌱  
 
 
 # 💻 Tech Stack:
